@@ -2,7 +2,7 @@
 layout: default
 title: コンソールの利用
 parent: ユーザーマニュアル
-nav_order: 50
+nav_order: 60
 ---
 
 # シリアルコンソール

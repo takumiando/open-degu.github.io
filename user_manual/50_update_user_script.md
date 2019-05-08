@@ -2,7 +2,7 @@
 layout: default
 title: MicroPythonコードの変更
 parent: ユーザーマニュアル
-nav_order: 40
+nav_order: 50
 ---
 
 # MicroPythonコードの変更
