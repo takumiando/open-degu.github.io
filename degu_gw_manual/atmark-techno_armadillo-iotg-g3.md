@@ -13,7 +13,7 @@ Armadillo-IoT ゲートウェイ G3 M1モデルに[TH00 Threadアドオンモジ
 
 ## Threadアドオンモジュールの接続
 
-Armadillo-IoT ゲートウェイ G3 M1モデルの`CON1`、または`CON2`のアドオンインターフェースに、Threadアドオンモジュールを接続してください。
+電源が入っていない状態で、Armadillo-IoT ゲートウェイ G3 M1モデルの`CON1`アドオンインターフェースに、Threadアドオンモジュールを接続してください。
 
 ## Linuxカーネルの更新
 
